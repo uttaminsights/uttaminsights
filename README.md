@@ -34,6 +34,12 @@
 
 ## 🚀 Featured projects
 
+### 🕷️ [Hotstar Scraper & Dashboard](https://github.com/uttaminsights/hotstar-scraper)
+C# / .NET 8 + Playwright scraper that captures JioHotstar's internal API responses and loads **210 movies, 430+ shows and 70,000+ episodes** into MySQL, with IMDb ratings and home-page promotions. Includes a dark streaming-style dashboard (Overview, Movies, TV Shows) with a one-click **Start run** button, shipped as a Windows app through GitHub Actions.
+`C#` `.NET 8` `Playwright` `MySQL` `ASP.NET Core` `GitHub Actions`
+
+<a href="https://github.com/uttaminsights/hotstar-scraper"><img src="https://raw.githubusercontent.com/uttaminsights/hotstar-scraper/main/docs/images/overview.png" alt="Hotstar dashboard overview" width="720"></a>
+
 ### 🏨 [Nivaara: Hotel Booking System](https://github.com/uttaminsights/nivaara-hotel-booking)
 Full-stack hotel booking platform: live room availability, online payments (Paytm), PDF receipts, guest reviews and a complete admin dashboard. Built with security in mind: prepared statements, server-side pricing and verified payment callbacks.
 `PHP` `MySQL` `Bootstrap 5` `JavaScript`
@@ -45,12 +51,6 @@ End-to-end analysis of **8,807 Netflix titles** in MySQL: data cleaning, explora
 `MySQL` `SQL` `Data Cleaning` `EDA`
 
 <a href="https://github.com/uttaminsights/netflix-sql-analysis"><img src="https://raw.githubusercontent.com/uttaminsights/netflix-sql-analysis/main/images/banner.svg" alt="Netflix SQL analysis: key numbers" width="720"></a>
-
-### 🕷️ [Hotstar Scraper & Dashboard](https://github.com/uttaminsights/hotstar-scraper)
-C# / .NET 8 + Playwright scraper that captures JioHotstar's internal API responses and loads **210 movies, 430+ shows and 70,000+ episodes** into MySQL, with IMDb ratings and home-page promotions. Includes a dark streaming-style dashboard (Overview, Movies, TV Shows) with a one-click **Start run** button, shipped as a Windows app through GitHub Actions.
-`C#` `.NET 8` `Playwright` `MySQL` `ASP.NET Core` `GitHub Actions`
-
-<a href="https://github.com/uttaminsights/hotstar-scraper"><img src="https://raw.githubusercontent.com/uttaminsights/hotstar-scraper/main/docs/images/overview.png" alt="Hotstar dashboard overview" width="720"></a>
 
 ---
 

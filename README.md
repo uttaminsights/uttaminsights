@@ -44,9 +44,13 @@ Full-stack hotel booking platform: live room availability, online payments (Payt
 End-to-end analysis of **8,807 Netflix titles** in MySQL: data cleaning, exploratory analysis, advanced SQL and business insights on genres, countries, directors, ratings and release trends.
 `MySQL` `SQL` `Data Cleaning` `EDA`
 
-### 🕷️ [Hotstar Scraper](https://github.com/uttaminsights/hotstar-scraper) *(in progress)*
-C# / .NET 8 console app using Playwright to automate a browser and extract dynamic content and promotions from JioHotstar. Service-based architecture with a Dockerfile; promotion extraction and JSON export are next.
-`C#` `.NET 8` `Playwright` `Docker`
+<a href="https://github.com/uttaminsights/netflix-sql-analysis"><img src="https://raw.githubusercontent.com/uttaminsights/netflix-sql-analysis/main/images/banner.svg" alt="Netflix SQL analysis: key numbers" width="720"></a>
+
+### 🕷️ [Hotstar Scraper & Dashboard](https://github.com/uttaminsights/hotstar-scraper)
+C# / .NET 8 + Playwright scraper that captures JioHotstar's internal API responses and loads **210 movies, 430+ shows and 70,000+ episodes** into MySQL, with IMDb ratings and home-page promotions. Includes a dark streaming-style dashboard (Overview, Movies, TV Shows) with a one-click **Start run** button, shipped as a Windows app through GitHub Actions.
+`C#` `.NET 8` `Playwright` `MySQL` `ASP.NET Core` `GitHub Actions`
+
+<a href="https://github.com/uttaminsights/hotstar-scraper"><img src="https://raw.githubusercontent.com/uttaminsights/hotstar-scraper/main/docs/images/overview.png" alt="Hotstar dashboard overview" width="720"></a>
 
 ---
 
